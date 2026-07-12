@@ -1,0 +1,301 @@
+company,is_profitable,has_high_debt,has_strong_cash_flow,has_good_management,has_regulatory_issues,recommend_buy
+Theta Corp,1,0,0,0,0,0
+Pinnacle Tech,1,0,0,0,0,0
+Aether Enterprises,1,1,1,0,0,0
+Alpha Solutions,1,0,0,1,0,1
+Zeta Dynamics,0,1,1,1,0,0
+Pinnacle Startup,1,0,1,1,0,1
+Omega Capital,0,0,1,1,1,0
+Omicron Startup,1,0,1,0,0,1
+Sigma Tech,1,0,1,0,0,1
+Aether Systems,1,1,1,0,0,0
+Phi Dynamics,0,0,1,1,0,0
+Apex Dynamics,1,1,0,0,0,0
+Pinnacle Innovations,1,0,1,0,1,0
+Iota Studios,1,1,1,0,0,0
+Stellar Media,0,0,1,1,1,0
+Alpha Startup,1,0,0,1,0,1
+Stellar Solutions,1,1,1,0,0,0
+Mu Studios,1,1,0,1,0,0
+Kappa Ventures,1,0,1,1,0,1
+Phi Labs,0,1,1,1,0,0
+Delta Systems,1,1,0,0,0,0
+Pinnacle Logistics,0,0,1,0,1,0
+Stellar Enterprises,1,1,1,1,0,0
+Omega Group,1,0,0,0,0,0
+Aether Systems 603,0,0,1,0,1,0
+Chi Tech,1,0,1,1,0,1
+Luminous Capital,1,1,1,0,0,0
+Stellar Ventures,1,0,1,1,1,0
+Eta Industries,1,0,1,0,0,1
+Nova Logistics,1,0,0,1,0,1
+Aether Startup,0,1,1,1,1,0
+Pi Solutions,1,0,1,1,0,1
+Alpha Dynamics,0,1,1,0,1,0
+Aether Labs,0,0,1,1,0,0
+Phi Industries,0,0,1,1,0,0
+Zenith Tech,1,0,0,1,0,1
+Luminous Systems,1,0,0,1,0,1
+Phi Innovations,0,1,0,0,0,0
+Upsilon Group,1,1,0,0,1,0
+Eta Tech,1,0,0,0,0,0
+Pi Ventures,0,0,1,0,1,0
+Vanguard Corp,1,0,1,0,1,0
+Rho Startup,1,1,0,0,0,0
+Chi Enterprises,1,1,1,0,1,0
+Delta Tech,1,1,0,0,0,0
+Rho Solutions,1,0,1,0,0,1
+Kappa Partners,0,0,1,0,0,0
+Omega Industries,1,0,0,0,0,0
+Aero Media,1,1,0,0,0,0
+Mu Holdings,0,1,0,1,1,0
+Pi Innovations,0,1,0,0,0,0
+Nu Group,1,1,1,0,0,0
+Nexus Networks,0,0,1,0,0,0
+Pinnacle Networks,1,0,1,0,1,0
+Rho Industries,0,0,1,0,0,0
+Zenith Startup,1,0,0,1,0,1
+Pinnacle Enterprises,1,0,1,0,0,1
+Theta Global,1,1,0,1,0,0
+Nu Holdings,1,0,1,0,0,1
+Nexus Partners,1,0,0,1,0,1
+Phi Group,1,1,1,1,1,0
+Lambda Tech,0,1,1,0,1,0
+Pi Global,0,0,0,0,0,0
+Epsilon Group,1,1,0,1,0,0
+Pi Logistics,1,0,1,1,0,1
+Stellar Systems,0,1,1,0,0,0
+Theta Group,0,0,1,1,0,0
+Nova Media,1,1,1,1,0,0
+Lambda Labs,1,1,1,0,0,0
+Apex Systems,0,0,0,0,0,0
+Pinnacle Tech 142,0,0,0,0,0,0
+Chi Partners,1,0,1,0,0,1
+Beta Capital,1,0,0,1,1,0
+Aero Partners,1,0,1,0,0,1
+Stellar Labs,0,0,1,0,0,0
+Cyber Logistics,1,0,1,1,0,1
+Zeta Holdings,0,0,0,0,0,0
+Phi Networks,1,0,1,1,0,1
+Zeta Labs,0,0,1,0,0,0
+Gamma Corp,1,0,0,0,0,0
+Theta Capital,1,0,0,0,0,0
+Theta Solutions,1,0,0,0,0,0
+Quantum Dynamics,1,0,1,1,0,1
+Upsilon Media,1,1,1,0,0,0
+Omega Tech,1,0,1,1,0,1
+Omega Group 725,0,0,1,1,0,0
+Pinnacle Labs,1,1,1,0,0,0
+Zeta Innovations,1,0,1,1,0,1
+Beta Labs,1,0,0,1,0,1
+Titan Innovations,1,0,0,0,0,0
+Aether Systems 708,1,1,1,0,0,0
+Nexus Systems,1,0,1,1,0,1
+Aether Networks,1,0,0,0,0,0
+Phi Startup,1,1,1,0,0,0
+Sigma Capital,1,0,0,0,0,0
+Omicron Ventures,0,0,1,0,1,0
+Aether Global,1,0,1,0,1,0
+Luminous Global,1,0,0,0,1,0
+Synapse Startup,1,0,0,1,0,1
+Kappa Capital,1,0,0,1,0,1
+Titan Media,0,0,1,0,1,0
+Stellar Global,1,0,1,0,0,1
+Xi Innovations,1,0,0,0,0,0
+Nova Media 482,0,0,1,1,0,0
+Omicron Innovations,1,1,1,1,0,0
+Pinnacle Systems,1,1,1,0,0,0
+Upsilon Media 767,1,1,1,0,0,0
+Nexus Innovations,1,0,0,0,0,0
+Phi Media,0,0,1,1,0,0
+Beta Innovations,1,1,0,1,0,0
+Sigma Solutions,1,0,1,1,0,1
+Aero Networks,1,0,0,0,0,0
+Nexus Partners 38,1,0,0,1,0,1
+Zenith Corp,1,0,1,0,0,1
+Apex Group,1,0,1,1,0,1
+Apex Startup,0,1,1,1,0,0
+Alpha Partners,1,0,1,0,1,0
+Kappa Labs,1,0,1,0,0,1
+Synapse Systems,1,0,0,1,0,1
+Iota Tech,0,1,1,1,0,0
+Alpha Global,1,1,1,1,1,0
+Nova Partners,1,0,1,0,1,0
+Nu Systems,1,0,1,0,0,1
+Quantum Dynamics 680,1,1,0,1,0,0
+Vortex Networks,1,1,1,1,0,0
+Kappa Holdings,1,1,0,1,0,0
+Echo Dynamics,1,1,1,1,0,0
+Phi Labs 894,1,1,0,1,0,0
+Omicron Tech,1,0,1,1,0,1
+Upsilon Corp,0,1,0,0,0,0
+Vanguard Holdings,1,1,0,0,1,0
+Echo Systems,1,0,0,1,0,1
+Alpha Group,1,1,0,0,0,0
+Vortex Global,1,0,0,1,0,1
+Quantum Labs,0,0,0,0,0,0
+Beta Dynamics,0,0,1,1,0,0
+Titan Labs,1,1,1,0,1,0
+Omicron Enterprises,1,1,1,1,1,0
+Eta Industries 317,1,0,0,0,1,0
+Phi Holdings,0,0,1,1,0,0
+Sigma Solutions 264,1,1,1,0,1,0
+Theta Group 987,0,1,0,1,0,0
+Nexus Partners 375,0,0,0,0,0,0
+Rho Capital,1,1,0,1,0,0
+Echo Partners,1,1,1,1,0,0
+Upsilon Holdings,0,0,0,1,0,0
+Pi Partners,0,0,1,1,1,0
+Aero Capital,1,0,1,0,0,1
+Aero Innovations,0,0,1,1,1,0
+Eta Ventures,1,1,0,0,0,0
+Theta Group 94,1,1,1,0,0,0
+Pi Logistics 806,1,0,1,0,0,1
+Omicron Networks,1,1,1,0,1,0
+Iota Partners,0,0,1,0,0,0
+Pi Capital,1,0,0,1,0,1
+Epsilon Labs,1,0,1,0,0,1
+Echo Industries,1,1,1,0,0,0
+Beta Industries,1,1,1,0,0,0
+Nova Tech,1,0,0,0,0,0
+Vortex Partners,1,0,1,0,0,1
+Stellar Startup,1,0,1,1,0,1
+Xi Holdings,1,0,0,0,0,0
+Eta Networks,1,1,0,0,1,0
+Epsilon Tech,1,0,0,1,1,0
+Aether Industries,1,0,0,0,0,0
+Stellar Industries,1,1,0,1,0,0
+Synapse Systems 868,0,1,0,1,0,0
+Stellar Partners,1,1,1,1,0,0
+Sigma Corp,0,1,0,0,0,0
+Kappa Capital 674,1,0,1,0,0,1
+Xi Dynamics,1,0,0,1,0,1
+Luminous Media,0,0,0,1,0,0
+Sigma Group,1,0,1,0,0,1
+Theta Ventures,1,0,1,0,0,1
+Gamma Systems,1,0,0,0,0,0
+Iota Innovations,0,0,1,0,0,0
+Pinnacle Systems 513,1,1,0,0,0,0
+Stellar Corp,1,0,0,0,0,0
+Aero Global,0,0,0,1,0,0
+Omega Tech 448,1,0,1,1,0,1
+Upsilon Networks,0,1,0,1,0,0
+Nu Ventures,1,1,1,0,0,0
+Rho Enterprises,0,0,1,0,1,0
+Apex Group 773,1,0,1,1,0,1
+Echo Networks,1,1,0,0,0,0
+Upsilon Innovations,1,0,0,0,0,0
+Omega Global,0,1,1,1,0,0
+Cyber Capital,1,1,1,0,1,0
+Nu Networks,1,0,1,0,1,0
+Chi Tech 517,1,0,1,1,0,1
+Echo Solutions,1,1,0,1,0,0
+Delta Networks,0,0,1,0,0,0
+Titan Logistics,1,0,0,0,1,0
+Nexus Logistics,1,1,0,0,0,0
+Iota Studios 96,1,0,0,0,0,0
+Xi Networks,1,0,0,0,0,0
+Eta Studios,1,1,1,0,0,0
+Echo Logistics,1,0,0,1,0,1
+Lambda Group,0,0,1,1,0,0
+Nova Systems,1,0,1,0,1,0
+Omega Capital 452,1,0,0,1,1,0
+Nu Media,0,0,1,1,0,0
+Eta Studios 872,0,0,0,0,0,0
+Stellar Tech,1,0,1,0,0,1
+Delta Dynamics,1,0,1,0,0,1
+Eta Networks 811,0,0,1,0,1,0
+Synapse Group,1,1,0,0,0,0
+Titan Studios,1,1,0,0,0,0
+Echo Group,0,1,1,1,0,0
+Luminous Systems 736,0,0,1,0,0,0
+Zeta Studios,1,0,1,1,1,0
+Aether Corp,1,0,1,1,0,1
+Beta Ventures,1,0,1,1,0,1
+Chi Logistics,0,0,1,0,0,0
+Cyber Labs,1,1,0,1,0,0
+Tau Enterprises,0,0,0,1,0,0
+Pinnacle Labs 260,0,1,0,1,0,0
+Chi Innovations,0,0,1,1,1,0
+Quantum Networks,1,0,1,1,0,1
+Zeta Holdings 81,1,1,0,0,0,0
+Phi Global,1,1,1,1,0,0
+Gamma Ventures,1,0,1,1,0,1
+Nexus Ventures,1,1,0,0,1,0
+Nova Industries,0,0,1,0,1,0
+Gamma Media,0,0,0,0,0,0
+Iota Studios 376,1,1,0,0,0,0
+Apex Studios,1,0,0,0,0,0
+Echo Global,1,1,0,0,0,0
+Mu Group,1,1,1,1,0,0
+Epsilon Partners,1,1,1,1,1,0
+Mu Ventures,1,0,0,0,0,0
+Beta Ventures 568,1,0,1,0,1,0
+Epsilon Global,1,1,1,0,0,0
+Luminous Tech,0,0,0,0,0,0
+Iota Partners 656,1,1,0,1,1,0
+Theta Studios,0,0,0,1,0,0
+Vanguard Global,1,0,1,1,0,1
+Upsilon Media 547,0,1,1,1,0,0
+Echo Media,1,1,0,1,0,0
+Luminous Innovations,1,1,1,1,0,0
+Pinnacle Global,1,0,0,1,0,1
+Cyber Tech,1,0,1,0,0,1
+Kappa Networks,1,0,1,0,0,1
+Omega Studios,1,0,1,0,0,1
+Eta Industries 298,1,1,1,1,1,0
+Phi Capital,1,0,0,1,0,1
+Upsilon Labs,0,1,1,1,0,0
+Psi Industries,0,0,1,1,0,0
+Pinnacle Corp,1,0,1,1,0,1
+Omega Industries 411,0,0,0,0,0,0
+Nova Partners 287,1,1,1,0,0,0
+Omega Networks,1,0,0,1,0,1
+Gamma Industries,0,1,1,1,0,0
+Zenith Logistics,1,1,0,1,0,0
+Upsilon Capital,1,1,1,1,0,0
+Beta Ventures 340,1,1,1,1,0,0
+Beta Media,1,1,1,1,0,0
+Delta Capital,1,0,1,1,0,1
+Pi Industries,1,1,0,0,0,0
+Aero Enterprises,1,1,1,1,0,0
+Delta Logistics,1,0,1,0,0,1
+Mu Group 935,1,0,1,1,0,1
+Rho Media,1,1,0,0,1,0
+Upsilon Global,1,1,1,0,0,0
+Sigma Global,0,1,0,1,1,0
+Kappa Global,0,1,0,1,0,0
+Synapse Enterprises,0,0,1,1,0,0
+Echo Capital,0,0,1,0,0,0
+Eta Holdings,1,0,1,0,1,0
+Lambda Holdings,1,1,1,1,0,0
+Tau Networks,0,0,1,1,0,0
+Gamma Solutions,1,1,1,0,1,0
+Apex Solutions,1,1,1,1,0,0
+Luminous Media 110,1,0,1,1,0,1
+Iota Studios 480,0,1,0,1,0,0
+Mu Corp,1,1,1,1,0,0
+Nexus Holdings,1,0,1,0,0,1
+Phi Systems,0,0,1,0,0,0
+Vortex Capital,0,1,1,0,0,0
+Upsilon Solutions,1,0,1,1,0,1
+Theta Global 377,1,0,0,0,0,0
+Titan Ventures,1,0,1,1,0,1
+Xi Systems,1,0,1,1,0,1
+Omega Tech 940,1,0,1,1,0,1
+Kappa Solutions,1,0,0,0,0,0
+Zeta Studios 457,1,0,1,0,0,1
+Cyber Global,1,0,1,1,0,1
+Gamma Holdings,1,0,1,1,0,1
+Synapse Industries,0,0,0,1,0,0
+Aero Ventures,1,0,1,1,0,1
+Pinnacle Logistics 670,1,0,1,0,0,1
+Omicron Corp,1,1,1,1,0,0
+Quantum Systems,0,0,0,1,0,0
+Theta Industries,1,0,1,1,0,1
+Xi Tech,0,0,1,1,0,0
+Gamma Dynamics,1,0,1,1,0,1
+Tau Systems,1,1,0,1,0,0
+Phi Systems 310,1,1,1,0,0,0
+Aether Capital,1,1,1,0,0,0
+Psi Dynamics,1,0,1,0,0,1

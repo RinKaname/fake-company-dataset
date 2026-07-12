@@ -1,301 +1,801 @@
 company,is_profitable,has_high_debt,has_strong_cash_flow,has_good_management,has_regulatory_issues,recommend_buy
-Theta Corp,1,0,0,0,0,0
-Pinnacle Tech,1,0,0,0,0,0
-Aether Enterprises,1,1,1,0,0,0
-Alpha Solutions,1,0,0,1,0,1
-Zeta Dynamics,0,1,1,1,0,0
-Pinnacle Startup,1,0,1,1,0,1
-Omega Capital,0,0,1,1,1,0
-Omicron Startup,1,0,1,0,0,1
-Sigma Tech,1,0,1,0,0,1
-Aether Systems,1,1,1,0,0,0
-Phi Dynamics,0,0,1,1,0,0
-Apex Dynamics,1,1,0,0,0,0
-Pinnacle Innovations,1,0,1,0,1,0
-Iota Studios,1,1,1,0,0,0
-Stellar Media,0,0,1,1,1,0
-Alpha Startup,1,0,0,1,0,1
-Stellar Solutions,1,1,1,0,0,0
-Mu Studios,1,1,0,1,0,0
-Kappa Ventures,1,0,1,1,0,1
-Phi Labs,0,1,1,1,0,0
-Delta Systems,1,1,0,0,0,0
-Pinnacle Logistics,0,0,1,0,1,0
-Stellar Enterprises,1,1,1,1,0,0
-Omega Group,1,0,0,0,0,0
-Aether Systems 603,0,0,1,0,1,0
-Chi Tech,1,0,1,1,0,1
-Luminous Capital,1,1,1,0,0,0
-Stellar Ventures,1,0,1,1,1,0
-Eta Industries,1,0,1,0,0,1
-Nova Logistics,1,0,0,1,0,1
-Aether Startup,0,1,1,1,1,0
-Pi Solutions,1,0,1,1,0,1
-Alpha Dynamics,0,1,1,0,1,0
-Aether Labs,0,0,1,1,0,0
-Phi Industries,0,0,1,1,0,0
-Zenith Tech,1,0,0,1,0,1
-Luminous Systems,1,0,0,1,0,1
-Phi Innovations,0,1,0,0,0,0
-Upsilon Group,1,1,0,0,1,0
-Eta Tech,1,0,0,0,0,0
-Pi Ventures,0,0,1,0,1,0
-Vanguard Corp,1,0,1,0,1,0
-Rho Startup,1,1,0,0,0,0
-Chi Enterprises,1,1,1,0,1,0
-Delta Tech,1,1,0,0,0,0
-Rho Solutions,1,0,1,0,0,1
-Kappa Partners,0,0,1,0,0,0
-Omega Industries,1,0,0,0,0,0
-Aero Media,1,1,0,0,0,0
-Mu Holdings,0,1,0,1,1,0
-Pi Innovations,0,1,0,0,0,0
-Nu Group,1,1,1,0,0,0
-Nexus Networks,0,0,1,0,0,0
-Pinnacle Networks,1,0,1,0,1,0
-Rho Industries,0,0,1,0,0,0
-Zenith Startup,1,0,0,1,0,1
-Pinnacle Enterprises,1,0,1,0,0,1
-Theta Global,1,1,0,1,0,0
-Nu Holdings,1,0,1,0,0,1
-Nexus Partners,1,0,0,1,0,1
-Phi Group,1,1,1,1,1,0
-Lambda Tech,0,1,1,0,1,0
-Pi Global,0,0,0,0,0,0
-Epsilon Group,1,1,0,1,0,0
-Pi Logistics,1,0,1,1,0,1
-Stellar Systems,0,1,1,0,0,0
-Theta Group,0,0,1,1,0,0
-Nova Media,1,1,1,1,0,0
-Lambda Labs,1,1,1,0,0,0
-Apex Systems,0,0,0,0,0,0
-Pinnacle Tech 142,0,0,0,0,0,0
-Chi Partners,1,0,1,0,0,1
-Beta Capital,1,0,0,1,1,0
-Aero Partners,1,0,1,0,0,1
-Stellar Labs,0,0,1,0,0,0
-Cyber Logistics,1,0,1,1,0,1
-Zeta Holdings,0,0,0,0,0,0
-Phi Networks,1,0,1,1,0,1
-Zeta Labs,0,0,1,0,0,0
-Gamma Corp,1,0,0,0,0,0
-Theta Capital,1,0,0,0,0,0
-Theta Solutions,1,0,0,0,0,0
-Quantum Dynamics,1,0,1,1,0,1
-Upsilon Media,1,1,1,0,0,0
-Omega Tech,1,0,1,1,0,1
-Omega Group 725,0,0,1,1,0,0
-Pinnacle Labs,1,1,1,0,0,0
-Zeta Innovations,1,0,1,1,0,1
-Beta Labs,1,0,0,1,0,1
-Titan Innovations,1,0,0,0,0,0
-Aether Systems 708,1,1,1,0,0,0
-Nexus Systems,1,0,1,1,0,1
-Aether Networks,1,0,0,0,0,0
-Phi Startup,1,1,1,0,0,0
-Sigma Capital,1,0,0,0,0,0
-Omicron Ventures,0,0,1,0,1,0
-Aether Global,1,0,1,0,1,0
-Luminous Global,1,0,0,0,1,0
-Synapse Startup,1,0,0,1,0,1
-Kappa Capital,1,0,0,1,0,1
-Titan Media,0,0,1,0,1,0
-Stellar Global,1,0,1,0,0,1
-Xi Innovations,1,0,0,0,0,0
-Nova Media 482,0,0,1,1,0,0
-Omicron Innovations,1,1,1,1,0,0
-Pinnacle Systems,1,1,1,0,0,0
-Upsilon Media 767,1,1,1,0,0,0
-Nexus Innovations,1,0,0,0,0,0
-Phi Media,0,0,1,1,0,0
-Beta Innovations,1,1,0,1,0,0
-Sigma Solutions,1,0,1,1,0,1
-Aero Networks,1,0,0,0,0,0
-Nexus Partners 38,1,0,0,1,0,1
-Zenith Corp,1,0,1,0,0,1
-Apex Group,1,0,1,1,0,1
-Apex Startup,0,1,1,1,0,0
-Alpha Partners,1,0,1,0,1,0
-Kappa Labs,1,0,1,0,0,1
-Synapse Systems,1,0,0,1,0,1
-Iota Tech,0,1,1,1,0,0
-Alpha Global,1,1,1,1,1,0
-Nova Partners,1,0,1,0,1,0
-Nu Systems,1,0,1,0,0,1
-Quantum Dynamics 680,1,1,0,1,0,0
-Vortex Networks,1,1,1,1,0,0
-Kappa Holdings,1,1,0,1,0,0
-Echo Dynamics,1,1,1,1,0,0
-Phi Labs 894,1,1,0,1,0,0
-Omicron Tech,1,0,1,1,0,1
-Upsilon Corp,0,1,0,0,0,0
-Vanguard Holdings,1,1,0,0,1,0
-Echo Systems,1,0,0,1,0,1
-Alpha Group,1,1,0,0,0,0
-Vortex Global,1,0,0,1,0,1
-Quantum Labs,0,0,0,0,0,0
-Beta Dynamics,0,0,1,1,0,0
-Titan Labs,1,1,1,0,1,0
-Omicron Enterprises,1,1,1,1,1,0
-Eta Industries 317,1,0,0,0,1,0
-Phi Holdings,0,0,1,1,0,0
-Sigma Solutions 264,1,1,1,0,1,0
-Theta Group 987,0,1,0,1,0,0
-Nexus Partners 375,0,0,0,0,0,0
-Rho Capital,1,1,0,1,0,0
-Echo Partners,1,1,1,1,0,0
-Upsilon Holdings,0,0,0,1,0,0
-Pi Partners,0,0,1,1,1,0
-Aero Capital,1,0,1,0,0,1
-Aero Innovations,0,0,1,1,1,0
-Eta Ventures,1,1,0,0,0,0
-Theta Group 94,1,1,1,0,0,0
-Pi Logistics 806,1,0,1,0,0,1
-Omicron Networks,1,1,1,0,1,0
-Iota Partners,0,0,1,0,0,0
-Pi Capital,1,0,0,1,0,1
-Epsilon Labs,1,0,1,0,0,1
-Echo Industries,1,1,1,0,0,0
-Beta Industries,1,1,1,0,0,0
-Nova Tech,1,0,0,0,0,0
-Vortex Partners,1,0,1,0,0,1
-Stellar Startup,1,0,1,1,0,1
-Xi Holdings,1,0,0,0,0,0
-Eta Networks,1,1,0,0,1,0
-Epsilon Tech,1,0,0,1,1,0
-Aether Industries,1,0,0,0,0,0
-Stellar Industries,1,1,0,1,0,0
-Synapse Systems 868,0,1,0,1,0,0
-Stellar Partners,1,1,1,1,0,0
-Sigma Corp,0,1,0,0,0,0
-Kappa Capital 674,1,0,1,0,0,1
-Xi Dynamics,1,0,0,1,0,1
-Luminous Media,0,0,0,1,0,0
-Sigma Group,1,0,1,0,0,1
-Theta Ventures,1,0,1,0,0,1
-Gamma Systems,1,0,0,0,0,0
-Iota Innovations,0,0,1,0,0,0
-Pinnacle Systems 513,1,1,0,0,0,0
-Stellar Corp,1,0,0,0,0,0
-Aero Global,0,0,0,1,0,0
-Omega Tech 448,1,0,1,1,0,1
-Upsilon Networks,0,1,0,1,0,0
-Nu Ventures,1,1,1,0,0,0
-Rho Enterprises,0,0,1,0,1,0
-Apex Group 773,1,0,1,1,0,1
-Echo Networks,1,1,0,0,0,0
-Upsilon Innovations,1,0,0,0,0,0
-Omega Global,0,1,1,1,0,0
-Cyber Capital,1,1,1,0,1,0
-Nu Networks,1,0,1,0,1,0
-Chi Tech 517,1,0,1,1,0,1
-Echo Solutions,1,1,0,1,0,0
-Delta Networks,0,0,1,0,0,0
-Titan Logistics,1,0,0,0,1,0
-Nexus Logistics,1,1,0,0,0,0
-Iota Studios 96,1,0,0,0,0,0
-Xi Networks,1,0,0,0,0,0
-Eta Studios,1,1,1,0,0,0
-Echo Logistics,1,0,0,1,0,1
-Lambda Group,0,0,1,1,0,0
-Nova Systems,1,0,1,0,1,0
-Omega Capital 452,1,0,0,1,1,0
-Nu Media,0,0,1,1,0,0
-Eta Studios 872,0,0,0,0,0,0
-Stellar Tech,1,0,1,0,0,1
-Delta Dynamics,1,0,1,0,0,1
-Eta Networks 811,0,0,1,0,1,0
-Synapse Group,1,1,0,0,0,0
-Titan Studios,1,1,0,0,0,0
-Echo Group,0,1,1,1,0,0
-Luminous Systems 736,0,0,1,0,0,0
-Zeta Studios,1,0,1,1,1,0
-Aether Corp,1,0,1,1,0,1
-Beta Ventures,1,0,1,1,0,1
-Chi Logistics,0,0,1,0,0,0
-Cyber Labs,1,1,0,1,0,0
-Tau Enterprises,0,0,0,1,0,0
-Pinnacle Labs 260,0,1,0,1,0,0
-Chi Innovations,0,0,1,1,1,0
-Quantum Networks,1,0,1,1,0,1
-Zeta Holdings 81,1,1,0,0,0,0
-Phi Global,1,1,1,1,0,0
-Gamma Ventures,1,0,1,1,0,1
-Nexus Ventures,1,1,0,0,1,0
-Nova Industries,0,0,1,0,1,0
-Gamma Media,0,0,0,0,0,0
-Iota Studios 376,1,1,0,0,0,0
-Apex Studios,1,0,0,0,0,0
-Echo Global,1,1,0,0,0,0
-Mu Group,1,1,1,1,0,0
-Epsilon Partners,1,1,1,1,1,0
-Mu Ventures,1,0,0,0,0,0
-Beta Ventures 568,1,0,1,0,1,0
-Epsilon Global,1,1,1,0,0,0
-Luminous Tech,0,0,0,0,0,0
-Iota Partners 656,1,1,0,1,1,0
-Theta Studios,0,0,0,1,0,0
-Vanguard Global,1,0,1,1,0,1
-Upsilon Media 547,0,1,1,1,0,0
-Echo Media,1,1,0,1,0,0
-Luminous Innovations,1,1,1,1,0,0
-Pinnacle Global,1,0,0,1,0,1
-Cyber Tech,1,0,1,0,0,1
-Kappa Networks,1,0,1,0,0,1
-Omega Studios,1,0,1,0,0,1
-Eta Industries 298,1,1,1,1,1,0
-Phi Capital,1,0,0,1,0,1
-Upsilon Labs,0,1,1,1,0,0
-Psi Industries,0,0,1,1,0,0
-Pinnacle Corp,1,0,1,1,0,1
-Omega Industries 411,0,0,0,0,0,0
-Nova Partners 287,1,1,1,0,0,0
-Omega Networks,1,0,0,1,0,1
-Gamma Industries,0,1,1,1,0,0
-Zenith Logistics,1,1,0,1,0,0
-Upsilon Capital,1,1,1,1,0,0
-Beta Ventures 340,1,1,1,1,0,0
-Beta Media,1,1,1,1,0,0
-Delta Capital,1,0,1,1,0,1
-Pi Industries,1,1,0,0,0,0
-Aero Enterprises,1,1,1,1,0,0
-Delta Logistics,1,0,1,0,0,1
-Mu Group 935,1,0,1,1,0,1
-Rho Media,1,1,0,0,1,0
-Upsilon Global,1,1,1,0,0,0
-Sigma Global,0,1,0,1,1,0
-Kappa Global,0,1,0,1,0,0
-Synapse Enterprises,0,0,1,1,0,0
-Echo Capital,0,0,1,0,0,0
-Eta Holdings,1,0,1,0,1,0
-Lambda Holdings,1,1,1,1,0,0
-Tau Networks,0,0,1,1,0,0
-Gamma Solutions,1,1,1,0,1,0
-Apex Solutions,1,1,1,1,0,0
-Luminous Media 110,1,0,1,1,0,1
-Iota Studios 480,0,1,0,1,0,0
-Mu Corp,1,1,1,1,0,0
-Nexus Holdings,1,0,1,0,0,1
-Phi Systems,0,0,1,0,0,0
-Vortex Capital,0,1,1,0,0,0
-Upsilon Solutions,1,0,1,1,0,1
-Theta Global 377,1,0,0,0,0,0
-Titan Ventures,1,0,1,1,0,1
-Xi Systems,1,0,1,1,0,1
-Omega Tech 940,1,0,1,1,0,1
-Kappa Solutions,1,0,0,0,0,0
-Zeta Studios 457,1,0,1,0,0,1
-Cyber Global,1,0,1,1,0,1
-Gamma Holdings,1,0,1,1,0,1
-Synapse Industries,0,0,0,1,0,0
-Aero Ventures,1,0,1,1,0,1
-Pinnacle Logistics 670,1,0,1,0,0,1
-Omicron Corp,1,1,1,1,0,0
-Quantum Systems,0,0,0,1,0,0
-Theta Industries,1,0,1,1,0,1
-Xi Tech,0,0,1,1,0,0
-Gamma Dynamics,1,0,1,1,0,1
-Tau Systems,1,1,0,1,0,0
-Phi Systems 310,1,1,1,0,0,0
-Aether Capital,1,1,1,0,0,0
-Psi Dynamics,1,0,1,0,0,1
+Theta Corp,0.742,0.245,0.14,0.102,0.203,0
+Zeta Enterprises,0.233,0.602,0.561,0.716,0.212,0
+Alpha Solutions,0.698,0.34,0.155,0.957,0.149,1
+Titan Innovations,0.807,0.73,0.536,0.973,0.082,0
+Omega Capital,0.192,0.07,0.661,0.773,0.318,0
+Cyber Ventures,0.163,0.355,0.67,0.702,0.351,0
+Pi Solutions,0.462,0.27,0.925,0.688,0.06,0
+Gamma Networks,0.401,0.066,0.913,0.567,0.281,0
+Cyber Logistics,0.265,0.247,0.561,0.263,0.212,0
+Zeta Industries,0.861,0.153,0.16,0.68,0.175,1
+Rho Partners,0.861,0.011,0.721,0.682,0.177,1
+Stellar Solutions,0.454,0.954,0.876,0.263,0.188,0
+Upsilon Studios,0.609,0.153,0.763,0.539,0.225,0
+Beta Startup,0.929,0.879,0.832,0.308,0.006,0
+Apex Tech,0.978,0.533,0.126,0.66,0.502,0
+Xi Partners,0.755,0.69,0.713,0.399,0.209,0
+Pi Systems,0.064,0.021,0.554,0.588,0.001,0
+Gamma Networks 73,0.514,0.278,0.485,0.539,0.116,0
+Synapse Holdings,0.19,0.097,0.431,0.424,0.083,0
+Eta Industries,0.403,0.339,0.862,0.249,0.043,0
+Pi Tech,0.443,0.861,0.55,0.051,0.457,0
+Pi Solutions 417,0.486,0.214,0.401,0.059,0.058,0
+Aether Labs,0.155,0.297,0.969,0.579,0.122,0
+Lambda Industries,0.961,0.08,0.186,0.595,0.25,1
+Pi Capital,0.595,0.619,0.419,0.584,0.098,0
+Upsilon Group,0.316,0.752,0.073,0.458,0.667,0
+Epsilon Systems,0.37,0.158,0.834,0.704,0.487,0
+Eta Logistics,0.264,0.89,0.742,0.155,0.093,0
+Rho Studios,0.489,0.905,0.846,0.092,0.068,0
+Nova Partners,0.706,0.561,0.112,0.945,0.296,0
+Aether Logistics,0.43,0.042,0.365,0.933,0.674,0
+Eta Ventures,0.78,0.884,0.406,0.621,0.014,0
+Mu Holdings,0.025,0.737,0.332,0.931,0.149,0
+Eta Dynamics,0.872,0.859,0.222,0.817,0.14,0
+Beta Enterprises,0.398,0.279,0.069,0.773,0.079,0
+Chi Corp,0.115,0.97,0.179,0.963,0.111,0
+Phi Holdings,0.606,0.511,0.385,0.577,0.041,0
+Omega Holdings,0.07,0.664,0.33,0.314,0.216,0
+Aero Networks,0.402,0.296,0.127,0.42,0.306,0
+Upsilon Dynamics,0.548,0.0,0.287,0.43,0.123,0
+Xi Studios,0.473,0.901,0.796,0.17,0.017,0
+Pi Global,0.225,0.199,0.024,0.245,0.126,0
+Quantum Labs,0.4,0.148,0.688,0.893,0.166,0
+Vanguard Group,0.05,0.249,0.848,0.456,0.204,0
+Nova Media,0.815,0.892,0.427,0.907,0.171,0
+Pi Innovations,0.766,0.521,0.627,0.275,0.021,0
+Pinnacle Tech,0.138,0.231,0.694,0.706,0.015,0
+Xi Holdings,0.389,0.77,0.946,0.02,0.277,0
+Upsilon Dynamics 874,0.892,0.836,0.538,0.735,0.308,0
+Nexus Solutions,0.841,0.92,0.981,0.534,0.296,0
+Stellar Logistics,0.867,0.182,0.26,0.327,0.132,0
+Aero Innovations,0.835,0.47,0.749,0.052,0.479,0
+Gamma Corp,0.95,0.199,0.02,0.152,0.021,0
+Rho Ventures,0.168,0.607,0.748,0.115,0.535,0
+Quantum Dynamics,0.941,0.198,0.592,0.831,0.04,1
+Theta Capital,0.783,0.347,0.428,0.371,0.149,0
+Eta Holdings,0.961,0.636,0.829,0.707,0.075,0
+Pinnacle Labs,0.465,0.826,0.592,0.322,0.057,0
+Quantum Networks,0.029,0.851,0.182,0.212,0.285,0
+Sigma Partners,0.01,0.948,0.086,0.72,0.084,0
+Apex Group,0.793,0.093,0.222,0.692,0.061,1
+Stellar Partners,0.331,0.703,0.271,0.251,0.04,0
+Mu Enterprises,0.216,0.484,0.725,0.977,0.169,0
+Omicron Ventures,0.179,0.014,0.534,0.274,0.405,0
+Apex Startup,0.873,0.574,0.469,0.44,0.097,0
+Epsilon Dynamics,0.492,0.577,0.686,0.152,0.325,0
+Titan Media,0.226,0.523,0.451,0.443,0.25,0
+Xi Enterprises,0.265,0.081,0.24,0.552,0.037,0
+Gamma Systems,0.288,0.283,0.86,0.071,0.07,0
+Nu Holdings,0.115,0.225,0.149,0.266,0.071,0
+Luminous Global,0.439,0.469,0.304,0.403,0.057,0
+Stellar Networks,0.604,0.026,0.229,0.674,0.259,0
+Sigma Capital,0.04,0.756,0.471,0.652,0.45,0
+Apex Tech 482,0.348,0.333,0.67,0.858,0.057,0
+Aether Industries,0.455,0.315,0.323,0.97,0.092,0
+Pinnacle Group,0.413,0.188,0.362,0.756,0.118,0
+Tau Group,0.881,0.485,0.029,0.63,0.193,0
+Aero Tech,0.225,0.841,0.113,0.947,0.269,0
+Sigma Holdings,0.835,0.98,0.244,0.551,0.048,0
+Aero Networks 957,0.788,0.267,0.003,0.726,0.246,1
+Nova Partners 496,0.345,0.552,0.543,0.455,0.112,0
+Omicron Holdings,0.044,0.745,0.705,0.811,0.072,0
+Apex Industries,0.126,0.965,0.332,0.1,0.437,0
+Kappa Holdings,0.871,0.97,0.075,0.782,0.049,0
+Chi Partners,0.38,0.317,0.719,0.759,0.256,0
+Zeta Holdings,0.978,0.76,0.704,0.101,0.046,0
+Delta Global,0.358,0.431,0.244,0.412,0.275,0
+Quantum Media,0.683,0.498,0.583,0.232,0.177,0
+Cyber Global,0.678,0.158,0.442,0.346,0.128,0
+Upsilon Enterprises,0.999,0.853,0.107,0.381,0.106,0
+Nexus Innovations,0.008,0.865,0.778,0.974,0.252,0
+Omicron Media,0.802,0.219,0.19,0.251,0.159,0
+Eta Industries 317,0.789,0.033,0.365,0.131,0.38,0
+Pinnacle Ventures,0.531,0.913,0.83,0.257,0.263,0
+Chi Startup,0.468,0.075,0.754,0.226,0.15,0
+Aether Ventures,0.09,0.395,0.264,0.124,0.06,0
+Omega Startup,0.675,0.471,0.62,0.943,0.064,0
+Cyber Global 665,0.408,0.14,0.946,0.304,0.222,0
+Cyber Ventures 687,0.949,0.696,0.54,0.587,0.116,0
+Echo Holdings,0.939,0.28,0.69,0.217,0.148,1
+Omega Partners,0.902,0.645,0.061,0.276,0.207,0
+Xi Media,0.971,0.051,0.334,0.989,0.327,1
+Vortex Enterprises,0.813,0.233,0.774,0.789,0.2,1
+Pinnacle Innovations,0.799,0.11,0.866,0.132,0.054,1
+Rho Industries,0.127,0.421,0.114,0.064,0.126,0
+Omicron Media 45,0.727,0.909,0.659,0.302,0.393,0
+Stellar Startup,0.49,0.91,0.073,0.081,0.312,0
+Aether Networks,0.381,0.597,0.295,0.506,0.083,0
+Xi Holdings 463,0.888,0.414,0.827,0.399,0.254,0
+Kappa Labs,0.067,0.832,0.093,0.097,0.142,0
+Aether Partners,0.33,0.122,0.354,0.665,0.129,0
+Titan Global,0.352,0.578,0.213,0.657,0.093,0
+Sigma Capital 232,0.807,0.845,0.975,0.818,0.135,0
+Sigma Corp,0.18,0.703,0.309,0.34,0.001,0
+Kappa Corp,0.092,0.53,0.376,0.454,0.043,0
+Titan Tech,0.883,0.156,0.754,0.05,0.018,1
+Aero Innovations 221,0.755,0.114,0.43,0.283,0.188,0
+Nexus Media,0.055,0.204,0.945,0.767,0.28,0
+Stellar Solutions 133,0.38,0.704,0.5,0.833,0.435,0
+Beta Group,0.921,0.862,0.576,0.573,0.216,0
+Phi Solutions,0.801,0.618,0.832,0.92,0.016,0
+Upsilon Networks,0.222,0.779,0.076,0.633,0.196,0
+Kappa Systems,0.103,0.256,0.173,0.153,0.396,0
+Cyber Capital,0.76,0.449,0.924,0.564,0.145,1
+Kappa Group,0.068,0.442,0.303,0.275,0.011,0
+Delta Ventures,0.832,0.077,0.864,0.855,0.159,1
+Gamma Group,0.909,0.572,0.188,0.605,0.079,0
+Zeta Studios,0.646,0.039,0.708,0.991,0.113,1
+Quantum Holdings,0.774,0.679,0.052,0.631,0.094,0
+Rho Media,0.873,0.333,0.583,0.141,0.091,1
+Upsilon Partners,0.377,0.792,0.813,0.67,0.2,0
+Stellar Studios,0.362,0.363,0.18,0.214,0.375,0
+Epsilon Global,0.844,0.101,0.771,0.835,0.559,0
+Iota Media,0.377,0.162,0.831,0.771,0.362,0
+Pi Group,0.611,0.752,0.784,0.234,0.041,0
+Tau Dynamics,0.503,0.419,0.162,0.2,0.16,0
+Vanguard Startup,0.285,0.763,0.273,0.905,0.034,0
+Nova Ventures,0.93,0.415,0.396,0.374,0.179,0
+Eta Networks,0.791,0.138,0.287,0.83,0.304,1
+Alpha Tech,0.019,0.216,0.15,0.94,0.172,0
+Theta Industries,0.238,0.639,0.623,0.063,0.266,0
+Luminous Systems,0.719,0.291,0.002,0.353,0.216,0
+Omega Tech,0.953,0.544,0.786,0.508,0.005,1
+Psi Tech,0.345,0.733,0.628,0.772,0.251,0
+Mu Group,0.981,0.479,0.182,0.135,0.285,0
+Phi Global,0.515,0.989,0.543,0.253,0.312,0
+Chi Innovations,0.124,0.368,0.889,0.743,0.344,0
+Apex Ventures,0.924,0.519,0.801,0.727,0.014,1
+Phi Startup,0.08,0.661,0.306,0.603,0.078,0
+Psi Media,0.998,0.275,0.98,0.948,0.013,1
+Lambda Corp,0.143,0.608,0.781,0.035,0.009,0
+Luminous Industries,0.605,0.679,0.949,0.372,0.207,0
+Sigma Systems,0.961,0.026,0.186,0.518,0.489,0
+Xi Media 293,0.694,0.999,0.2,0.136,0.025,0
+Phi Ventures,0.71,0.55,0.29,0.3,0.025,0
+Omega Studios,0.224,0.985,0.792,0.237,0.142,0
+Aether Logistics 627,0.884,0.066,0.398,0.717,0.128,1
+Iota Networks,0.642,0.45,0.68,0.345,0.216,0
+Iota Holdings,0.503,0.868,0.831,0.518,0.111,0
+Vanguard Global,0.846,0.251,0.635,0.551,0.034,1
+Lambda Capital,0.942,0.154,0.659,0.721,0.096,1
+Beta Tech,0.045,0.641,0.577,0.651,0.246,0
+Pinnacle Global,0.642,0.302,0.245,0.807,0.1,0
+Aero Labs,0.464,0.34,0.144,0.861,0.081,0
+Eta Networks 248,0.466,0.267,0.248,0.097,0.074,0
+Lambda Networks,0.934,0.721,0.19,0.159,0.535,0
+Zeta Dynamics,0.505,0.967,0.215,0.353,0.01,0
+Synapse Global,0.537,0.847,0.431,0.882,0.15,0
+Luminous Partners,0.195,0.553,0.074,0.504,0.284,0
+Theta Logistics,0.975,0.394,0.795,0.339,0.278,0
+Zenith Industries,0.045,0.137,0.333,0.474,0.096,0
+Echo Networks,0.163,0.991,0.739,0.299,0.046,0
+Upsilon Labs,0.816,0.368,0.674,0.98,0.1,1
+Beta Media,0.475,0.967,0.783,0.776,0.112,0
+Echo Dynamics,0.148,0.681,0.032,0.948,0.08,0
+Xi Holdings 514,0.775,0.921,0.873,0.736,0.023,0
+Synapse Studios,0.377,0.957,0.46,0.533,0.11,0
+Rho Media 496,0.192,0.247,0.558,0.225,0.49,0
+Apex Networks,0.48,0.56,0.934,0.722,0.058,0
+Nexus Ventures,0.955,0.805,0.29,0.288,0.236,0
+Synapse Enterprises,0.202,0.539,0.933,0.696,0.025,0
+Vanguard Systems,0.638,0.052,0.413,0.717,0.019,1
+Synapse Labs,0.651,0.756,0.287,0.285,0.008,0
+Gamma Solutions,0.418,0.838,0.934,0.036,0.189,0
+Tau Industries,0.009,0.568,0.107,0.983,0.063,0
+Cyber Innovations,0.193,0.113,0.162,0.459,0.089,0
+Luminous Enterprises,0.175,0.856,0.897,0.827,0.241,0
+Iota Labs,0.324,0.248,0.261,0.236,0.185,0
+Theta Group,0.307,0.405,0.503,0.895,0.241,0
+Tau Ventures,0.615,0.219,0.134,0.153,0.193,0
+Synapse Partners,0.802,0.826,0.762,0.68,0.105,0
+Omega Tech 940,0.564,0.062,0.548,0.505,0.233,0
+Theta Enterprises,0.717,0.489,0.899,0.445,0.021,0
+Aether Group,0.673,0.308,0.022,0.254,0.001,0
+Epsilon Partners,0.994,0.935,0.069,0.934,0.007,0
+Aero Ventures,0.993,0.382,0.87,0.907,0.068,1
+Psi Startup,0.178,0.537,0.529,0.728,0.063,0
+Pinnacle Dynamics,0.823,0.248,0.346,0.276,0.286,0
+Aero Media,0.766,0.884,0.016,0.206,0.061,0
+Delta Systems,0.741,0.402,0.234,0.217,0.505,0
+Luminous Networks,0.577,0.773,0.818,0.237,0.32,0
+Vortex Solutions,0.626,0.427,0.496,0.972,0.309,0
+Aero Holdings,0.149,0.376,0.754,0.474,0.334,0
+Delta Partners,0.413,0.417,0.53,0.388,0.069,0
+Omega Tech 549,0.725,0.19,0.268,0.674,0.111,1
+Synapse Enterprises 891,0.907,0.303,0.909,0.212,0.029,1
+Pi Media,0.704,0.397,0.239,0.322,0.065,0
+Omega Studios 904,0.497,0.099,0.981,0.469,0.291,0
+Kappa Corp 268,0.553,0.584,0.72,0.295,0.061,0
+Aether Networks 264,0.763,0.489,0.724,0.74,0.081,0
+Pinnacle Labs 189,0.917,0.542,0.642,0.059,0.004,0
+Alpha Holdings,0.137,0.631,0.068,0.151,0.05,0
+Echo Labs,0.659,0.016,0.532,0.411,0.002,0
+Zenith Holdings,0.806,0.91,0.107,0.096,0.049,0
+Sigma Dynamics,0.079,0.959,0.459,0.243,0.241,0
+Gamma Tech,0.405,0.377,0.476,0.637,0.351,0
+Chi Capital,0.977,0.974,0.895,0.919,0.024,0
+Sigma Industries,0.924,0.684,0.28,0.543,0.263,0
+Xi Capital,0.144,0.821,0.821,0.929,0.061,0
+Pinnacle Networks,0.384,0.74,0.79,0.689,0.011,0
+Omicron Tech,0.341,0.769,0.955,0.397,0.487,0
+Apex Systems,0.356,0.941,0.432,0.68,0.322,0
+Epsilon Tech,0.268,0.38,0.784,0.154,0.107,0
+Nova Ventures 780,0.27,0.133,0.187,0.449,0.155,0
+Zeta Media,0.598,0.324,0.385,0.292,0.178,0
+Pi Capital 534,0.17,0.381,0.139,0.301,0.25,0
+Synapse Tech,0.361,0.944,0.721,0.496,0.169,0
+Nexus Networks,0.842,0.38,0.862,0.44,0.063,1
+Upsilon Networks 618,0.947,0.201,0.314,0.965,0.482,1
+Luminous Systems 334,0.376,0.816,0.393,0.114,0.128,0
+Aether Corp,0.953,0.462,0.708,0.438,0.05,1
+Aero Labs 143,0.633,0.242,0.659,0.715,0.42,0
+Nexus Partners,0.507,0.92,0.692,0.544,0.275,0
+Zeta Startup,0.769,0.658,0.355,0.647,0.01,0
+Stellar Startup 11,0.099,0.222,0.747,0.558,0.262,0
+Vortex Studios,0.151,0.998,0.483,0.295,0.527,0
+Psi Global,0.343,0.784,0.521,0.348,0.015,0
+Gamma Startup,0.023,0.343,0.109,0.8,0.273,0
+Chi Partners 437,0.958,0.232,0.405,0.184,0.183,0
+Nu Group,0.592,0.389,0.705,0.206,0.366,0
+Phi Enterprises,0.458,0.262,0.863,0.528,0.152,0
+Psi Ventures,0.846,0.617,0.814,0.706,0.057,0
+Theta Systems,0.305,0.183,0.693,0.511,0.166,0
+Pinnacle Solutions,0.555,0.49,0.14,0.315,0.238,0
+Iota Enterprises,0.815,0.964,0.505,0.495,0.205,0
+Zeta Capital,0.031,0.761,0.292,0.275,0.208,0
+Apex Partners,0.511,0.573,0.268,0.543,0.47,0
+Nova Partners 224,0.99,0.102,0.83,0.751,0.08,1
+Theta Systems 215,0.811,0.588,0.351,0.711,0.255,0
+Xi Industries,0.57,0.532,0.597,0.168,0.509,0
+Zenith Startup,0.136,0.75,0.412,0.059,0.05,0
+Kappa Networks,0.828,0.761,0.676,0.489,0.194,0
+Zeta Dynamics 528,0.75,0.695,0.877,0.455,0.107,0
+Zeta Group,0.635,0.697,0.85,0.796,0.093,0
+Aether Capital,0.131,0.852,0.788,0.894,0.441,0
+Beta Startup 952,0.858,0.441,0.001,0.958,0.034,1
+Lambda Innovations,0.093,0.36,0.082,0.665,0.356,0
+Omicron Holdings 672,0.091,0.095,0.213,0.078,0.149,0
+Chi Startup 881,0.422,0.132,0.071,0.383,0.351,0
+Iota Dynamics,0.773,0.753,0.133,0.993,0.029,0
+Nova Ventures 740,0.213,0.748,0.92,0.616,0.152,0
+Theta Capital 748,0.384,0.963,0.315,0.14,0.126,0
+Titan Global 798,0.941,0.027,0.847,0.876,0.038,1
+Delta Systems 507,0.386,0.241,0.638,0.071,0.362,0
+Aero Ventures 560,0.683,0.763,0.954,0.77,0.008,0
+Delta Dynamics,0.507,0.629,0.501,0.415,0.351,0
+Sigma Tech,0.31,0.511,0.203,0.808,0.151,0
+Epsilon Global 716,0.437,0.953,0.239,0.244,0.504,0
+Mu Startup,0.013,0.137,0.011,0.496,0.077,0
+Omega Logistics,0.75,0.873,0.733,0.118,0.366,0
+Rho Capital,0.628,0.496,0.511,0.055,0.401,0
+Luminous Startup,0.228,0.509,0.044,0.863,0.055,0
+Gamma Partners,0.803,0.714,0.656,0.225,0.033,0
+Delta Solutions,0.223,0.516,0.046,0.401,0.184,0
+Zeta Partners,0.457,0.369,0.292,0.785,0.282,0
+Nu Partners,0.76,0.245,0.006,0.41,0.062,0
+Chi Corp 778,0.657,0.849,0.727,0.104,0.182,0
+Kappa Innovations,0.093,0.921,0.897,0.52,0.223,0
+Eta Studios,0.134,0.82,0.075,0.568,0.139,0
+Phi Networks,0.453,0.234,0.944,0.136,0.372,0
+Phi Holdings 124,0.536,0.965,0.208,0.308,0.107,0
+Titan Industries,0.215,0.857,0.148,0.711,0.443,0
+Mu Corp,0.952,0.855,0.556,0.55,0.039,0
+Delta Systems 134,0.198,0.401,0.686,0.938,0.015,0
+Epsilon Enterprises,0.902,0.443,0.129,0.905,0.309,0
+Lambda Capital 444,0.822,0.395,0.029,0.683,0.055,0
+Kappa Industries,0.614,0.617,0.647,0.499,0.306,0
+Aero Enterprises,0.643,0.797,0.249,0.994,0.367,0
+Synapse Partners 801,0.485,0.913,0.502,0.388,0.049,0
+Sigma Industries 829,0.992,0.529,0.767,1.0,0.603,0
+Delta Systems 590,0.847,0.797,0.355,0.839,0.384,0
+Psi Capital,0.028,0.701,0.948,0.564,0.212,0
+Apex Partners 317,0.176,0.038,0.056,0.602,0.004,0
+Iota Networks 735,0.177,0.802,0.868,0.06,0.023,0
+Vanguard Ventures,0.961,0.374,0.942,0.396,0.027,1
+Stellar Labs,0.649,0.174,0.969,0.694,0.255,1
+Mu Dynamics,0.307,0.688,0.127,0.729,0.648,0
+Echo Systems,0.64,0.104,0.496,0.331,0.02,0
+Zeta Networks,0.447,0.265,0.25,0.068,0.065,0
+Aero Labs 903,0.379,0.546,0.101,0.479,0.245,0
+Epsilon Industries,0.295,0.319,0.952,0.074,0.042,0
+Zeta Networks 609,0.985,0.893,0.705,0.431,0.155,0
+Chi Enterprises,0.974,0.409,0.554,0.926,0.111,1
+Nexus Capital,0.55,0.491,0.055,0.004,0.011,0
+Eta Corp,0.207,0.638,0.977,0.474,0.016,0
+Rho Tech,0.642,0.388,0.371,0.381,0.103,0
+Sigma Capital 64,0.151,0.696,0.097,0.668,0.27,0
+Delta Dynamics 839,0.523,0.966,0.687,0.936,0.201,0
+Gamma Studios,0.571,0.517,0.571,0.983,0.047,0
+Zeta Holdings 207,0.997,0.627,0.834,0.258,0.36,0
+Sigma Studios,0.458,0.873,0.787,0.623,0.141,0
+Vortex Capital,0.758,0.94,0.925,0.563,0.028,0
+Aero Innovations 393,0.655,0.572,0.473,0.172,0.081,0
+Nexus Networks 708,0.238,0.746,0.921,0.897,0.002,0
+Apex Startup 996,0.869,0.134,0.974,0.443,0.328,1
+Nu Group 217,0.913,0.407,0.484,0.517,0.193,0
+Zenith Dynamics,0.136,0.851,0.879,0.029,0.024,0
+Cyber Industries,0.918,0.705,0.274,0.824,0.105,0
+Omega Labs,0.594,0.178,0.87,0.587,0.129,1
+Zeta Global,0.027,0.05,0.854,0.78,0.068,0
+Aero Studios,0.02,0.78,0.768,0.009,0.284,0
+Rho Media 825,0.943,0.713,0.709,0.275,0.201,0
+Upsilon Studios 845,0.624,0.584,0.007,0.999,0.281,0
+Tau Global,0.684,0.482,0.336,0.276,0.098,0
+Upsilon Enterprises 154,0.517,0.24,0.057,0.857,0.274,0
+Beta Labs,0.997,0.259,0.419,0.388,0.005,0
+Omicron Partners,0.638,0.476,0.941,0.358,0.108,0
+Tau Startup,0.471,0.741,0.725,0.559,0.157,0
+Omicron Ventures 229,0.744,0.307,0.788,0.331,0.075,1
+Vortex Capital 967,0.621,0.472,0.195,0.12,0.18,0
+Kappa Logistics,0.992,0.343,0.987,0.893,0.61,0
+Zeta Labs,0.333,0.987,0.313,0.058,0.158,0
+Lambda Labs,0.785,0.78,0.129,0.434,0.11,0
+Pinnacle Enterprises,0.731,0.95,0.892,0.757,0.098,0
+Upsilon Logistics,0.103,0.503,0.306,0.065,0.009,0
+Iota Networks 924,0.49,0.75,0.165,0.907,0.542,0
+Gamma Dynamics,0.877,0.256,0.535,0.049,0.456,0
+Theta Holdings,0.444,0.124,0.253,0.702,0.049,0
+Echo Media,0.701,0.419,0.899,0.512,0.208,0
+Titan Enterprises,0.778,0.831,0.973,0.358,0.155,0
+Synapse Networks,0.235,0.013,0.089,0.11,0.147,0
+Epsilon Startup,0.905,0.644,0.457,0.977,0.141,0
+Tau Ventures 821,0.677,0.426,0.116,0.851,0.265,0
+Echo Innovations,0.878,0.093,0.815,0.183,0.107,1
+Lambda Startup,0.133,0.726,0.982,0.844,0.02,0
+Psi Media 30,0.863,0.88,0.727,0.892,0.118,0
+Epsilon Innovations,0.655,0.012,0.868,0.525,0.165,1
+Chi Studios,0.523,0.701,0.095,0.662,0.066,0
+Aether Media,0.055,0.643,0.157,0.849,0.279,0
+Delta Studios,0.223,0.643,0.403,0.235,0.072,0
+Nova Networks,0.119,0.497,0.653,0.103,0.186,0
+Upsilon Studios 576,0.207,0.671,0.95,0.363,0.017,0
+Echo Media 485,0.717,0.363,0.453,0.097,0.152,0
+Omega Startup 47,0.897,0.492,0.822,0.743,0.131,0
+Nexus Enterprises,0.457,0.781,0.717,0.108,0.044,0
+Nova Group,0.658,0.956,0.135,0.499,0.29,0
+Synapse Studios 800,0.921,0.177,0.579,0.73,0.031,1
+Zenith Dynamics 429,0.98,0.916,0.762,0.274,0.553,0
+Zenith Global,0.843,0.548,0.314,0.737,0.198,0
+Psi Logistics,0.981,0.65,0.958,0.504,0.233,0
+Synapse Capital,0.571,0.667,0.417,0.748,0.333,0
+Vanguard Startup 26,0.381,0.053,0.057,0.267,0.357,0
+Xi Partners 34,0.359,0.453,0.616,0.676,0.2,0
+Zenith Global 710,0.664,0.926,0.388,0.957,0.492,0
+Rho Enterprises,0.621,0.781,0.87,0.83,0.266,0
+Pinnacle Media,0.196,0.725,0.193,0.449,0.655,0
+Theta Dynamics,0.041,0.279,0.264,0.161,0.199,0
+Upsilon Labs 809,0.573,0.358,0.784,0.318,0.075,0
+Aero Partners,0.537,0.092,0.221,0.213,0.089,0
+Vanguard Labs,0.997,0.824,0.981,0.009,0.192,0
+Echo Systems 982,0.04,0.886,0.381,0.796,0.033,0
+Vanguard Ventures 527,0.803,0.446,0.044,0.898,0.04,0
+Pinnacle Partners,0.007,0.065,0.67,0.774,0.307,0
+Stellar Tech,0.747,0.154,0.459,0.332,0.045,0
+Luminous Systems 933,0.259,0.388,0.63,0.433,0.003,0
+Echo Tech,0.756,0.586,0.701,0.073,0.517,0
+Zeta Global 784,0.927,0.381,0.822,0.031,0.049,1
+Pinnacle Global 984,0.634,0.298,0.887,0.965,0.248,0
+Aether Logistics 127,0.042,0.573,0.394,0.548,0.027,0
+Xi Holdings 928,0.646,0.513,0.161,0.221,0.366,0
+Delta Partners 473,0.645,0.073,0.672,0.251,0.038,1
+Pi Startup,0.285,0.07,0.193,0.486,0.06,0
+Luminous Ventures,0.808,0.959,0.169,0.313,0.185,0
+Omega Logistics 696,0.733,0.878,0.463,0.359,0.064,0
+Sigma Logistics,0.891,0.196,0.734,0.627,0.114,1
+Vortex Capital 415,0.769,0.213,0.037,0.261,0.299,0
+Nexus Systems,0.891,0.59,0.857,0.134,0.231,0
+Pi Media 701,0.166,0.514,0.446,0.179,0.323,0
+Synapse Ventures,0.04,0.761,0.232,0.264,0.04,0
+Quantum Labs 940,0.455,0.046,0.981,0.324,0.191,1
+Rho Capital 558,0.57,0.377,0.379,0.588,0.51,0
+Omicron Studios,0.406,0.817,0.345,0.793,0.699,0
+Omicron Tech 527,0.643,0.212,0.187,0.362,0.33,0
+Theta Labs,0.675,0.479,0.591,0.647,0.134,0
+Iota Studios,0.039,0.572,0.056,0.258,0.035,0
+Tau Tech,0.217,0.607,0.471,0.482,0.053,0
+Mu Media,0.66,0.265,0.724,0.343,0.097,0
+Eta Corp 208,0.523,0.909,0.684,0.827,0.237,0
+Pinnacle Studios,0.752,0.093,0.659,0.902,0.593,0
+Stellar Studios 431,0.37,0.043,0.53,0.229,0.173,0
+Luminous Startup 436,0.134,0.477,0.233,0.859,0.033,0
+Alpha Capital,0.523,0.52,0.375,0.205,0.269,0
+Vortex Innovations,0.261,0.536,0.565,0.612,0.525,0
+Aether Labs 184,0.37,0.555,0.254,0.307,0.059,0
+Theta Systems 458,0.783,0.949,0.1,0.508,0.162,0
+Delta Solutions 399,0.965,0.005,0.091,0.145,0.362,0
+Zeta Media 39,0.724,0.931,0.401,0.656,0.043,0
+Alpha Enterprises,0.851,0.931,0.518,0.195,0.232,0
+Gamma Ventures,0.239,0.0,0.157,0.997,0.27,0
+Vanguard Corp,0.737,0.069,0.09,0.284,0.235,0
+Luminous Corp,0.261,0.407,0.106,0.072,0.024,0
+Luminous Innovations,0.694,0.966,0.563,0.77,0.23,0
+Theta Innovations,0.068,0.634,0.994,0.677,0.063,0
+Alpha Innovations,0.248,0.093,0.674,0.821,0.019,0
+Nu Labs,0.737,0.235,0.242,0.265,0.029,0
+Eta Startup,0.92,0.676,0.663,0.614,0.215,0
+Echo Networks 505,0.898,0.881,0.575,0.275,0.027,0
+Luminous Logistics,0.054,0.799,0.478,0.541,0.139,0
+Theta Studios,0.46,0.689,0.012,0.211,0.182,0
+Aether Innovations,0.237,0.471,0.613,0.366,0.177,0
+Nexus Innovations 462,0.18,0.131,0.576,0.229,0.028,0
+Quantum Enterprises,0.146,0.959,0.15,0.806,0.037,0
+Vanguard Partners,0.721,0.785,0.3,0.562,0.161,0
+Rho Labs,0.839,0.096,0.745,0.26,0.076,1
+Aero Startup,0.351,0.68,0.606,0.577,0.166,0
+Phi Studios,0.487,0.737,0.89,0.381,0.053,0
+Chi Holdings,0.631,0.572,0.849,0.071,0.05,0
+Sigma Media,0.645,0.271,0.445,0.863,0.074,1
+Mu Corp 129,0.728,0.662,0.94,0.701,0.028,0
+Synapse Partners 56,0.026,0.397,0.765,0.083,0.097,0
+Upsilon Systems,0.247,0.284,0.626,0.131,0.542,0
+Phi Labs,0.467,0.871,0.935,0.549,0.025,0
+Luminous Holdings,0.523,0.64,0.31,0.347,0.088,0
+Rho Logistics,0.304,0.0,0.815,0.848,0.081,0
+Synapse Global 10,0.766,0.798,0.597,0.797,0.205,0
+Pi Solutions 733,0.737,0.39,0.378,0.263,0.139,0
+Sigma Global,0.648,0.532,0.269,0.188,0.026,0
+Nova Innovations,0.7,0.492,0.321,0.152,0.712,0
+Iota Group,0.727,0.233,0.151,0.494,0.098,0
+Cyber Industries 339,0.08,0.751,0.146,0.267,0.086,0
+Rho Dynamics,0.828,0.122,0.768,0.249,0.242,0
+Cyber Startup,0.521,0.982,0.473,0.681,0.087,0
+Aether Studios,0.122,0.481,0.299,0.36,0.008,0
+Stellar Networks 16,0.167,0.276,0.12,0.789,0.005,0
+Titan Logistics,0.371,0.089,0.158,0.091,0.075,0
+Delta Ventures 661,0.154,0.536,0.107,0.488,0.066,0
+Nova Enterprises,0.021,0.378,0.724,0.251,0.006,0
+Apex Enterprises,0.567,0.544,0.324,0.468,0.261,0
+Vanguard Logistics,0.449,0.819,0.542,0.454,0.229,0
+Echo Ventures,0.776,0.239,0.721,0.658,0.153,1
+Aether Logistics 628,0.283,0.41,0.322,0.096,0.376,0
+Gamma Enterprises,0.107,0.192,0.032,0.642,0.091,0
+Delta Ventures 227,0.606,0.071,0.93,0.209,0.111,1
+Omega Industries,0.824,0.266,0.041,0.07,0.027,0
+Omicron Partners 395,0.189,0.526,0.249,0.625,0.027,0
+Luminous Ventures 691,0.459,0.665,0.883,0.167,0.043,0
+Titan Group,0.934,0.902,0.55,0.997,0.295,0
+Phi Media,0.241,0.546,0.375,0.55,0.249,0
+Alpha Industries,0.983,0.596,0.518,0.993,0.087,1
+Beta Innovations,0.919,0.511,0.571,0.572,0.02,0
+Vortex Systems,0.233,0.811,0.092,0.4,0.263,0
+Mu Labs,0.826,0.69,0.576,0.908,0.193,0
+Zeta Industries 944,0.771,0.348,0.817,0.417,0.247,0
+Quantum Industries,0.305,0.041,0.54,0.15,0.175,0
+Nexus Group,0.753,0.575,0.09,0.432,0.356,0
+Delta Partners 409,0.263,0.399,0.434,0.698,0.228,0
+Luminous Enterprises 575,0.616,0.736,0.246,0.072,0.277,0
+Aero Holdings 375,0.348,0.321,0.594,0.024,0.116,0
+Nu Ventures,0.156,0.728,0.086,0.74,0.045,0
+Tau Corp,0.343,0.804,0.305,0.471,0.054,0
+Rho Partners 495,0.623,0.992,0.695,0.668,0.119,0
+Echo Innovations 55,0.465,0.945,0.067,0.66,0.305,0
+Quantum Systems,0.98,0.509,0.71,0.904,0.104,0
+Cyber Partners,0.926,0.021,0.247,0.529,0.086,1
+Psi Ventures 641,0.302,0.996,0.979,0.276,0.018,0
+Beta Partners,0.949,0.226,0.342,0.393,0.021,0
+Omicron Holdings 247,0.573,0.426,0.312,0.605,0.183,0
+Nu Logistics,0.309,0.705,0.524,0.135,0.312,0
+Aether Partners 972,0.719,0.184,0.84,0.146,0.008,1
+Upsilon Group 764,0.934,0.894,0.933,0.274,0.38,0
+Echo Media 274,0.606,0.612,0.596,0.231,0.012,0
+Titan Labs,0.712,0.374,0.852,0.491,0.045,1
+Alpha Innovations 974,0.413,0.742,0.988,0.758,0.006,0
+Apex Networks 888,0.458,0.247,0.405,0.042,0.238,0
+Luminous Media,0.536,0.641,0.704,0.039,0.024,0
+Pi Studios,0.538,0.984,0.039,0.387,0.239,0
+Tau Group 171,0.422,0.613,0.055,0.517,0.018,0
+Theta Solutions,0.779,0.938,0.696,0.135,0.102,0
+Nu Group 93,0.25,0.692,0.907,0.796,0.327,0
+Omega Tech 537,0.707,0.727,0.975,0.612,0.032,0
+Chi Capital 893,0.66,0.15,0.869,0.179,0.217,1
+Nova Global,0.626,0.118,0.132,0.203,0.218,0
+Pinnacle Corp,0.608,0.493,0.217,0.659,0.116,0
+Aether Innovations 635,0.629,0.82,0.208,0.185,0.014,0
+Luminous Media 306,0.331,0.088,0.109,0.994,0.046,0
+Luminous Partners 182,0.966,0.749,0.36,0.036,0.273,0
+Stellar Partners 67,0.293,0.135,0.695,0.274,0.127,0
+Eta Capital,0.73,0.629,0.987,0.484,0.088,0
+Titan Networks,0.26,0.575,0.623,0.927,0.161,0
+Mu Media 239,0.709,0.979,0.002,0.024,0.278,0
+Aero Holdings 47,0.334,0.56,0.638,0.011,0.058,0
+Zenith Partners,0.324,0.006,0.686,0.341,0.18,0
+Chi Networks,0.922,0.479,0.475,0.036,0.049,0
+Chi Group,0.784,0.414,0.743,0.835,0.049,1
+Xi Capital 702,0.332,0.916,0.796,0.066,0.018,0
+Pinnacle Solutions 585,0.606,0.187,0.117,0.782,0.039,0
+Zeta Labs 899,0.238,0.452,0.951,0.216,0.125,0
+Zeta Group 519,0.025,0.483,0.5,0.19,0.269,0
+Kappa Startup,0.822,0.938,0.677,0.133,0.214,0
+Alpha Global,0.932,0.687,0.594,0.087,0.257,0
+Upsilon Corp,0.578,0.312,0.892,0.321,0.056,0
+Theta Innovations 153,0.157,0.114,0.958,0.56,0.02,0
+Tau Capital,0.245,0.071,0.613,0.339,0.181,0
+Eta Dynamics 56,0.086,0.392,0.705,0.891,0.132,0
+Chi Enterprises 731,0.758,0.809,0.079,0.923,0.209,0
+Cyber Startup 467,0.31,0.644,0.766,0.471,0.516,0
+Omega Dynamics,0.183,0.917,0.33,0.861,0.074,0
+Synapse Group,0.846,0.282,0.349,0.575,0.139,0
+Aether Tech,0.792,0.533,0.401,0.413,0.154,0
+Chi Enterprises 834,0.694,0.431,0.98,0.567,0.06,1
+Luminous Labs,0.114,0.596,0.325,0.098,0.134,0
+Titan Dynamics,0.327,0.645,0.061,0.218,0.026,0
+Kappa Logistics 464,0.531,0.39,0.578,0.196,0.228,0
+Upsilon Holdings,0.718,0.915,0.99,0.583,0.157,0
+Delta Ventures 923,0.549,0.053,0.703,0.821,0.046,1
+Vortex Dynamics,0.625,0.712,0.406,0.435,0.074,0
+Omega Holdings 158,0.288,0.873,0.126,0.012,0.275,0
+Iota Tech,0.137,0.806,0.86,0.894,0.202,0
+Quantum Ventures,0.226,0.425,0.007,0.498,0.163,0
+Luminous Ventures 35,0.978,0.568,0.705,0.113,0.091,0
+Sigma Group,0.517,0.523,0.61,0.245,0.137,0
+Pinnacle Capital,0.312,0.053,0.344,0.779,0.111,0
+Aero Ventures 984,0.978,0.295,0.168,0.695,0.194,0
+Synapse Capital 174,0.573,0.656,0.292,0.737,0.006,0
+Sigma Innovations,0.133,0.281,0.858,0.014,0.038,0
+Nova Ventures 828,0.175,0.783,0.236,0.181,0.316,0
+Titan Logistics 858,0.496,0.994,0.77,0.238,0.088,0
+Psi Industries,0.642,0.755,0.116,0.168,0.119,0
+Pinnacle Systems,0.38,0.706,0.475,0.145,0.641,0
+Phi Studios 700,0.956,0.097,0.531,0.354,0.243,0
+Sigma Innovations 822,0.098,0.654,0.391,0.773,0.165,0
+Chi Solutions,0.313,0.011,0.008,0.068,0.093,0
+Tau Innovations,0.193,0.024,0.092,0.939,0.111,0
+Theta Tech,0.856,0.13,0.656,0.9,0.112,1
+Epsilon Group,0.923,0.276,0.427,0.903,0.273,1
+Delta Dynamics 398,0.333,0.06,0.956,0.265,0.105,0
+Mu Labs 112,0.144,0.769,0.218,0.643,0.264,0
+Luminous Innovations 796,0.446,0.897,0.149,0.64,0.301,0
+Nexus Capital 4,0.515,0.94,0.491,0.436,0.196,0
+Alpha Dynamics,0.954,0.818,0.482,0.567,0.399,0
+Zeta Ventures,0.535,0.961,0.08,0.46,0.192,0
+Quantum Enterprises 307,0.696,0.896,0.631,0.359,0.015,0
+Nu Corp,0.72,0.593,0.489,0.063,0.169,0
+Nova Corp,0.037,0.056,0.788,0.043,0.015,0
+Pinnacle Logistics,0.741,0.233,0.072,0.735,0.333,0
+Pi Logistics,0.014,0.633,0.905,0.821,0.017,0
+Eta Startup 510,0.595,0.616,0.063,0.203,0.046,0
+Theta Capital 559,0.137,0.836,0.793,0.764,0.184,0
+Aero Solutions,0.696,0.553,0.439,0.926,0.017,0
+Lambda Corp 901,0.487,0.006,0.179,0.089,0.116,0
+Xi Logistics,0.64,0.523,0.412,0.938,0.357,0
+Zeta Global 357,0.419,0.558,0.192,0.987,0.39,0
+Zenith Systems,0.464,0.626,0.208,0.053,0.041,0
+Apex Solutions,0.16,0.923,0.054,0.364,0.063,0
+Cyber Industries 107,0.74,0.925,0.176,0.785,0.207,0
+Vortex Capital 334,0.419,0.747,0.898,0.23,0.034,0
+Nu Dynamics,0.891,0.074,0.585,0.054,0.15,0
+Omega Logistics 469,0.72,0.632,0.976,0.202,0.02,0
+Cyber Group,0.418,0.76,0.22,0.295,0.021,0
+Luminous Partners 876,0.23,0.412,0.522,0.862,0.048,0
+Stellar Systems,0.248,0.434,0.222,0.927,0.21,0
+Gamma Industries,0.991,0.733,0.504,0.426,0.058,0
+Apex Systems 86,0.558,0.012,0.732,0.95,0.037,1
+Synapse Global 166,0.703,0.858,0.747,0.024,0.075,0
+Omega Group,0.704,0.001,0.627,0.385,0.184,1
+Echo Partners,0.575,0.207,0.685,0.62,0.178,0
+Gamma Ventures 376,0.175,0.559,0.067,0.709,0.083,0
+Vortex Enterprises 772,0.745,0.225,0.353,0.267,0.239,0
+Apex Studios,0.527,0.123,0.71,0.678,0.17,0
+Epsilon Enterprises 914,0.884,0.087,0.391,0.179,0.593,0
+Kappa Labs 155,0.875,0.521,0.627,0.293,0.398,0
+Nova Corp 299,0.189,0.022,0.802,0.835,0.155,0
+Phi Labs 608,0.666,0.53,0.548,0.458,0.097,0
+Tau Industries 152,0.353,0.456,0.166,0.924,0.253,0
+Kappa Solutions,0.238,0.041,0.317,0.126,0.09,0
+Phi Ventures 152,0.373,0.54,0.163,0.302,0.365,0
+Cyber Networks,0.156,0.97,0.546,0.507,0.218,0
+Luminous Logistics 819,0.565,0.907,0.442,0.689,0.197,0
+Omicron Group,0.357,0.326,0.608,0.195,0.089,0
+Zeta Partners 870,0.445,0.672,0.087,0.512,0.053,0
+Omega Dynamics 152,0.716,0.428,0.386,0.012,0.1,0
+Xi Group,0.742,0.416,0.443,0.164,0.112,0
+Vortex Media,0.086,0.208,0.475,0.868,0.676,0
+Zeta Corp,0.409,0.914,0.415,0.556,0.145,0
+Quantum Global,0.554,0.042,0.826,0.835,0.063,0
+Alpha Logistics,0.263,0.956,0.834,0.473,0.177,0
+Theta Innovations 505,0.994,0.067,0.746,0.581,0.082,1
+Theta Ventures,0.513,0.575,0.845,0.163,0.015,0
+Lambda Industries 280,0.361,0.636,0.955,0.049,0.054,0
+Mu Startup 614,0.753,0.544,0.872,0.827,0.234,0
+Eta Partners,0.58,0.823,0.013,0.518,0.087,0
+Eta Enterprises,0.155,0.221,0.188,0.897,0.1,0
+Aether Startup,0.417,0.916,0.117,0.131,0.004,0
+Nova Media 536,0.764,0.342,0.71,0.029,0.338,0
+Omicron Global,0.125,0.13,0.079,0.691,0.411,0
+Gamma Enterprises 111,0.033,0.66,0.593,0.469,0.573,0
+Eta Startup 943,0.602,0.588,0.2,0.671,0.011,0
+Vortex Ventures,0.352,0.855,0.781,0.613,0.251,0
+Vanguard Enterprises,0.716,0.964,0.172,0.754,0.001,0
+Synapse Ventures 715,0.589,0.44,0.958,0.181,0.094,0
+Theta Networks,0.124,0.11,0.136,0.762,0.184,0
+Theta Dynamics 291,0.457,0.736,0.687,0.841,0.055,0
+Epsilon Labs,0.939,0.367,0.013,0.674,0.204,1
+Theta Logistics 405,0.401,0.591,0.102,0.925,0.65,0
+Titan Dynamics 126,0.233,0.425,0.499,0.765,0.204,0
+Nexus Ventures 488,0.667,0.95,0.988,0.511,0.033,0
+Omicron Logistics,0.03,0.738,0.83,0.498,0.009,0
+Upsilon Media,0.623,0.76,0.661,0.52,0.124,0
+Zenith Innovations,0.542,0.809,0.541,0.018,0.36,0
+Nova Group 37,0.033,0.557,0.86,0.303,0.199,0
+Apex Startup 583,0.675,0.66,0.685,0.572,0.067,0
+Apex Capital,0.971,0.617,0.353,0.978,0.043,1
+Beta Networks,0.381,0.428,0.992,0.412,0.017,0
+Zeta Tech,0.869,0.114,0.17,0.538,0.006,1
+Aero Innovations 21,0.696,0.588,0.986,0.378,0.082,0
+Xi Networks,0.497,0.811,0.667,0.167,0.056,0
+Pinnacle Enterprises 295,0.265,0.297,0.574,0.805,0.15,0
+Luminous Studios,0.475,0.21,0.796,0.652,0.043,0
+Nu Holdings 412,0.251,0.515,0.672,0.548,0.263,0
+Apex Enterprises 677,0.962,0.742,0.467,0.937,0.115,0
+Luminous Industries 535,0.201,0.462,0.24,0.746,0.142,0
+Epsilon Enterprises 867,0.412,0.824,0.646,0.256,0.173,0
+Pi Global 476,0.485,0.991,0.422,0.906,0.059,0
+Sigma Partners 181,0.644,0.042,0.722,0.782,0.015,1
+Omega Tech 407,0.943,0.724,0.141,0.112,0.135,0
+Rho Labs 906,0.09,0.6,0.773,0.313,0.202,0
+Stellar Enterprises,0.144,0.175,0.97,0.439,0.049,0
+Theta Networks 559,0.424,0.683,0.963,0.879,0.4,0
+Beta Media 36,0.841,0.662,0.941,0.691,0.314,0
+Omega Startup 548,0.867,0.858,0.388,0.91,0.177,0
+Xi Solutions,0.916,0.631,0.879,0.767,0.242,0
+Apex Labs,0.737,0.926,0.333,0.422,0.51,0
+Epsilon Ventures,0.421,0.729,0.548,0.327,0.139,0
+Nova Logistics,0.003,0.2,0.306,0.576,0.033,0
+Iota Media 703,0.41,0.939,0.451,0.874,0.046,0
+Tau Enterprises,0.084,0.368,0.393,0.377,0.247,0
+Aether Media 642,0.229,0.089,0.462,0.262,0.505,0
+Kappa Tech,0.958,0.17,0.567,0.014,0.09,1
+Apex Startup 230,0.714,0.191,0.862,0.782,0.064,1
+Titan Enterprises 844,0.283,0.677,0.418,0.409,0.041,0
+Pi Ventures,0.583,0.647,0.086,0.469,0.388,0
+Titan Innovations 75,0.095,0.059,0.333,0.235,0.406,0
+Nexus Ventures 136,0.968,0.56,0.58,0.26,0.056,0
+Phi Studios 444,0.142,0.117,0.044,0.128,0.193,0
+Tau Innovations 628,0.83,0.927,0.517,0.436,0.025,0
+Aether Group 55,0.189,0.055,0.183,0.47,0.036,0
+Apex Industries 453,0.357,0.709,0.485,0.493,0.444,0
+Lambda Studios,0.823,0.563,0.663,0.212,0.886,0
+Epsilon Systems 787,0.498,0.094,0.329,0.284,0.606,0
+Eta Networks 158,0.029,0.46,0.708,0.48,0.216,0
+Gamma Media,0.951,0.325,0.732,0.734,0.365,0
+Tau Networks,0.798,0.744,0.547,0.602,0.027,0
+Nexus Tech,0.021,0.208,0.389,0.402,0.217,0
+Upsilon Media 135,0.359,0.096,0.367,0.2,0.121,0
+Zeta Holdings 831,0.368,0.186,0.631,0.093,0.105,0
+Vanguard Studios,0.084,0.468,0.079,0.802,0.087,0
+Luminous Industries 565,0.077,0.045,0.108,0.425,0.016,0
+Rho Capital 84,0.769,0.016,0.741,0.463,0.257,1
+Cyber Group 639,0.808,0.341,0.918,0.81,0.097,1
+Eta Holdings 548,0.018,0.395,0.013,0.656,0.123,0
+Apex Global,0.618,0.974,0.361,0.674,0.213,0
+Alpha Enterprises 115,0.816,0.696,0.188,0.027,0.192,0
+Pinnacle Enterprises 89,0.301,0.463,0.474,0.022,0.06,0
+Synapse Corp,0.86,0.585,0.201,0.569,0.231,0
+Apex Capital 611,0.731,0.999,0.037,0.4,0.094,0
+Apex Systems 732,0.061,0.019,0.576,0.553,0.048,0
+Echo Ventures 460,0.698,0.021,0.288,0.192,0.112,0
+Chi Media,0.853,0.715,0.468,0.883,0.23,0
+Omega Labs 819,0.971,0.162,0.207,0.691,0.018,1
+Apex Startup 813,0.416,0.994,0.304,0.209,0.035,0
+Lambda Solutions,0.828,0.894,0.032,0.064,0.088,0
+Rho Networks,0.785,0.769,0.77,0.557,0.201,0
+Eta Industries 949,0.946,0.799,0.963,0.756,0.325,0
+Eta Partners 43,0.507,0.167,0.118,0.205,0.061,0
+Apex Startup 158,0.647,0.335,0.138,0.849,0.115,0
+Synapse Networks 294,0.505,0.085,0.372,0.755,0.066,1
+Aero Systems,0.138,0.429,0.918,0.898,0.373,0
+Nova Logistics 789,0.01,0.806,0.944,0.085,0.158,0
+Kappa Capital,0.058,0.632,0.713,0.66,0.164,0
+Aether Global,0.722,0.314,0.344,0.827,0.284,0
+Xi Partners 640,0.788,0.652,0.697,0.888,0.257,0
+Gamma Partners 343,0.39,0.719,0.88,0.52,0.194,0
+Chi Solutions 24,0.028,0.797,0.593,0.241,0.177,0
+Delta Ventures 266,0.627,0.354,0.048,0.651,0.034,0
+Pi Capital 580,0.715,0.938,0.666,0.844,0.066,0
+Luminous Logistics 732,0.378,0.738,0.105,0.516,0.027,0
+Stellar Holdings,0.082,0.062,0.889,0.476,0.124,0
+Vanguard Dynamics,0.872,0.584,0.636,0.997,0.207,0
+Apex Group 133,0.968,0.513,0.529,0.694,0.101,0
+Aero Startup 124,0.37,0.29,0.523,0.118,0.079,0
+Kappa Logistics 803,0.59,0.049,0.894,0.889,0.029,1
+Psi Tech 892,0.045,0.481,0.31,0.452,0.089,0
+Iota Logistics,0.505,0.461,0.45,0.449,0.339,0
+Aero Dynamics,0.233,0.395,0.541,0.958,0.239,0
+Beta Capital,0.63,0.772,0.309,0.645,0.313,0
+Delta Capital,0.522,0.751,0.503,0.019,0.171,0
+Xi Systems,0.83,0.839,0.58,0.085,0.164,0
+Beta Networks 448,0.181,0.024,0.528,0.382,0.025,0
+Kappa Global,0.952,0.679,0.059,0.961,0.029,0
+Kappa Holdings 915,0.324,0.376,0.828,0.121,0.03,0
+Zenith Dynamics 973,0.115,0.061,0.465,0.407,0.13,0
+Sigma Partners 987,0.586,0.102,0.763,0.652,0.024,1
+Zenith Enterprises,0.783,0.142,0.54,0.168,0.02,1
+Gamma Corp 833,0.465,0.829,0.289,0.972,0.0,0
+Psi Enterprises,0.585,0.51,0.045,0.739,0.18,0
+Iota Partners,0.999,0.878,0.211,0.505,0.141,0
+Nova Innovations 252,0.662,0.322,0.211,0.959,0.118,1
+Apex Dynamics,0.538,0.787,0.649,0.078,0.004,0
+Psi Dynamics,0.827,0.358,0.177,0.768,0.539,0
+Nova Corp 227,0.743,0.758,0.681,0.709,0.025,0
+Omicron Systems,0.98,0.967,0.037,0.493,0.328,0
+Lambda Partners,0.194,0.739,0.672,0.603,0.033,0
+Luminous Systems 903,0.523,0.782,0.192,0.678,0.424,0
+Aether Group 3,0.938,0.641,0.943,0.052,0.379,0
+Vanguard Group 508,0.361,0.759,0.884,0.225,0.068,0
+Nu Networks,0.082,0.572,0.025,0.737,0.458,0
+Lambda Networks 319,0.063,0.625,0.028,0.432,0.003,0
+Pi Startup 485,0.238,0.341,0.054,0.334,0.212,0
+Vortex Startup,0.086,0.061,0.033,0.313,0.478,0
+Nova Industries,0.301,0.626,0.066,0.678,0.18,0
+Aero Systems 886,0.6,0.66,0.011,0.384,0.14,0
+Beta Group 530,0.328,0.192,0.103,0.595,0.009,0
+Zenith Innovations 364,0.421,0.725,0.445,0.243,0.443,0
+Psi Global 598,0.885,0.775,0.147,0.309,0.091,0
+Kappa Industries 244,0.507,0.835,0.859,0.422,0.065,0
+Chi Enterprises 684,0.476,0.692,0.467,0.692,0.259,0
+Chi Solutions 108,0.454,0.789,0.042,0.219,0.001,0
+Pi Labs,0.735,0.953,0.332,0.74,0.07,0
+Epsilon Ventures 31,0.555,0.142,0.44,0.631,0.371,0
+Tau Solutions,0.219,0.262,0.174,0.848,0.083,0
+Eta Corp 852,0.677,0.379,0.787,0.111,0.42,0
+Lambda Studios 819,0.998,0.882,0.878,0.065,0.013,0
+Quantum Ventures 326,0.6,0.977,0.245,0.046,0.237,0
+Phi Systems,0.053,0.796,0.873,0.852,0.608,0
+Epsilon Solutions,0.509,0.751,0.645,0.509,0.126,0
+Synapse Labs 486,0.268,0.401,0.921,0.584,0.011,0
+Nexus Enterprises 314,0.425,0.377,0.157,0.842,0.115,0
+Vanguard Ventures 236,0.584,0.465,0.621,0.426,0.125,0
+Quantum Corp,0.18,0.234,0.645,0.359,0.01,0
+Sigma Systems 101,0.119,0.36,0.546,0.334,0.245,0
+Sigma Enterprises,0.706,0.998,0.998,0.752,0.263,0
+Nexus Dynamics,0.822,0.758,0.012,0.654,0.252,0
+Xi Labs,0.234,0.587,0.553,0.469,0.296,0
+Stellar Holdings 215,0.439,0.853,0.03,0.139,0.352,0
+Psi Networks,0.225,0.426,0.753,0.763,0.237,0
+Gamma Logistics,0.154,0.953,0.33,0.63,0.138,0
+Xi Dynamics,0.064,0.386,0.475,0.329,0.351,0
+Aether Solutions,0.032,0.689,0.489,0.187,0.021,0
+Delta Ventures 531,0.011,0.327,0.91,0.391,0.633,0
+Quantum Enterprises 134,0.87,0.31,0.818,0.665,0.03,1
+Cyber Innovations 207,0.007,0.143,0.064,0.399,0.242,0
+Cyber Group 590,0.039,0.091,0.646,0.919,0.046,0
+Mu Holdings 256,0.18,0.618,0.432,0.385,0.14,0
+Gamma Systems 907,0.871,0.274,0.628,0.292,0.273,0
+Apex Holdings,0.992,0.553,0.995,0.077,0.015,1
+Rho Enterprises 519,0.045,0.027,0.639,0.676,0.133,0
+Gamma Corp 257,0.115,0.917,0.327,0.749,0.241,0
+Nova Logistics 483,0.82,0.842,0.171,0.018,0.028,0
+Epsilon Corp,0.677,0.153,0.358,0.217,0.005,0
+Vanguard Startup 400,0.69,0.444,0.598,0.049,0.13,0
+Nu Tech,0.016,0.028,0.015,0.821,0.359,0
+Lambda Solutions 46,0.416,0.108,0.327,0.562,0.062,0
+Theta Systems 219,0.106,0.323,0.015,0.654,0.004,0
+Sigma Media 378,0.044,0.885,0.411,0.768,0.082,0
+Rho Startup,0.6,0.981,0.696,0.678,0.353,0
+Phi Labs 70,0.335,0.609,0.585,0.382,0.234,0
+Omicron Corp,0.616,0.897,0.309,0.738,0.194,0
+Tau Enterprises 156,0.376,0.642,0.238,0.725,0.491,0
+Phi Industries,0.521,0.978,0.648,0.288,0.003,0
+Pinnacle Industries,0.907,0.665,0.248,0.687,0.18,0
+Nova Corp 67,0.87,0.07,0.192,0.634,0.046,1
+Xi Systems 520,0.078,0.725,0.311,0.722,0.086,0
+Nova Enterprises 279,0.862,0.481,0.951,0.36,0.09,1
+Stellar Logistics 840,0.954,0.482,0.762,0.427,0.016,0
+Quantum Group,0.306,0.283,0.562,0.481,0.056,0
+Alpha Corp,0.862,0.73,0.374,0.405,0.11,0
+Upsilon Capital,0.071,0.885,0.992,0.124,0.482,0
+Psi Studios,0.709,0.635,0.368,0.058,0.097,0
+Omega Corp,0.697,0.645,0.261,0.455,0.247,0
+Lambda Corp 120,0.771,0.644,0.917,0.398,0.078,0
+Stellar Solutions 850,0.427,0.692,0.501,0.533,0.279,0
+Zeta Startup 652,0.573,0.798,0.814,0.269,0.032,0
+Lambda Labs 2,0.097,0.774,0.418,0.417,0.069,0
+Iota Enterprises 499,0.182,0.948,0.451,0.814,0.094,0
+Rho Holdings,0.441,0.913,0.109,0.636,0.035,0
+Beta Capital 241,0.478,0.673,0.101,0.061,0.59,0
+Eta Enterprises 535,0.792,0.376,0.52,0.962,0.059,1
+Chi Ventures,0.682,0.343,0.315,0.24,0.093,0
+Chi Startup 4,0.457,0.698,0.725,0.888,0.025,0
+Pi Ventures 463,0.618,0.659,0.475,0.413,0.048,0

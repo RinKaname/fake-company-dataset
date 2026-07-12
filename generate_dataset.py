@@ -20,17 +20,34 @@ def generate_data(num_samples):
             name = f"{name} {random.randint(1, 1000)}"
         names.add(name)
 
-        is_profitable = random.choices([0, 1], weights=[0.3, 0.7])[0]
-        has_high_debt = random.choices([0, 1], weights=[0.6, 0.4])[0]
-        has_strong_cash_flow = random.choices([0, 1], weights=[0.4, 0.6])[0]
-        has_good_management = random.choices([0, 1], weights=[0.5, 0.5])[0]
-        has_regulatory_issues = random.choices([0, 1], weights=[0.8, 0.2])[0]
+        # GENERATE FUZZY CONTINUOUS VARIABLES (0.0 to 1.0)
+        # Instead of strict 0 or 1, we use a continuous scale.
+        is_profitable = round(random.uniform(0.0, 1.0), 3)
+        has_high_debt = round(random.uniform(0.0, 1.0), 3)
+        has_strong_cash_flow = round(random.uniform(0.0, 1.0), 3)
+        has_good_management = round(random.uniform(0.0, 1.0), 3)
 
-        # Logic for recommend_buy
-        recommend_buy = 1 if (is_profitable == 1 and
-                              has_high_debt == 0 and
-                              has_regulatory_issues == 0 and
-                              (has_strong_cash_flow == 1 or has_good_management == 1)) else 0
+        # Regulatory issues are usually rare, so we skew it heavily towards 0
+        has_regulatory_issues = round(random.betavariate(1, 5), 3)
+
+        # Logic for recommend_buy (Fuzzy Logic Rule with added Noise)
+        # Base logical score using fuzzy logic principles:
+        # Profitability is good, debt is bad, regulatory issues are terrible
+        # Cash flow and management act as a supporting OR condition
+
+        strength_score = max(has_strong_cash_flow, has_good_management)
+        baseline_score = is_profitable * (1.0 - has_high_debt) * (1.0 - has_regulatory_issues)
+
+        # Combine the scores
+        raw_buy_score = baseline_score * strength_score
+
+        # Add a bit of market "noise" or unpredictability (approx +/- 0.1)
+        noise = random.uniform(-0.1, 0.1)
+        final_buy_score = raw_buy_score + noise
+
+        # Threshold the final score to make a binary decision (Buy = 1, Don't Buy = 0)
+        # Or we could leave it continuous, but typically targets are binary. We'll threshold at 0.35.
+        recommend_buy = 1 if final_buy_score >= 0.35 else 0
 
         data.append({
             "company": name,
@@ -58,13 +75,13 @@ def save_to_csv(data, filename, include_target=True):
         dict_writer.writeheader()
         dict_writer.writerows(data_to_save)
 
-# Generate datasets
-train_data = generate_data(300)
-test_data = generate_data(100)
+# Generate datasets (Increasing size slightly to help neural net learn fuzzy rules)
+train_data = generate_data(800)
+test_data = generate_data(200)
 
 # Save to CSV
 save_to_csv(train_data, "train.csv", include_target=True)
 save_to_csv(test_data, "test.csv", include_target=False)
 save_to_csv(test_data, "solution.csv", include_target=True)
 
-print("train.csv, test.csv, and solution.csv generated successfully.")
+print("Version 2 fuzzy/noisy datasets generated successfully: train.csv, test.csv, and solution.csv.")

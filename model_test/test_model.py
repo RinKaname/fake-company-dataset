@@ -60,16 +60,24 @@ for epoch in range(150):
 
     x_all = ltn.Variable("x_all", features)
 
-    # We enforce that the target_condition implies RecommendBuy, and RecommendBuy implies target_condition
+    # Extract variables based on labels
+    x_buy = ltn.Variable("x_buy", features[labels_buy == 1])
+    x_not_buy = ltn.Variable("x_not_buy", features[labels_buy == 0])
+
+    # --- DEFINE LOGIC RULES (THE KNOWLEDGE BASE) ---
     has_strength = Or(HasStrongCashFlow(x_all), HasGoodManagement(x_all))
     clean_baseline = And(IsProfitable(x_all), And(Not(HasHighDebt(x_all)), Not(HasRegulatoryIssues(x_all))))
     target_condition = And(clean_baseline, has_strength)
 
-    # Target implies condition & condition implies target
+    # Domain Knowledge: Target implies condition & condition implies target
     rule1 = Forall(x_all, Implies(RecommendBuy(x_all), target_condition))
     rule2 = Forall(x_all, Implies(target_condition, RecommendBuy(x_all)))
 
-    knowledge_base = And(rule1, rule2)
+    # Data Supervision Rules: Learn from the noisy ground-truth labels
+    rule3 = Forall(x_buy, RecommendBuy(x_buy))
+    rule4 = Forall(x_not_buy, Not(RecommendBuy(x_not_buy)))
+
+    knowledge_base = And(And(rule1, rule2), And(rule3, rule4))
 
     sat_level = knowledge_base.value
     loss = 1.0 - sat_level
