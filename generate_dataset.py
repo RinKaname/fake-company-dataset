@@ -44,19 +44,27 @@ def generate_data(num_samples):
 
     return data
 
-def save_to_csv(data, filename):
-    keys = data[0].keys()
+def save_to_csv(data, filename, include_target=True):
+    # Copy data to avoid modifying the original dicts
+    data_to_save = [dict(row) for row in data]
+
+    if not include_target:
+        for row in data_to_save:
+            row.pop("recommend_buy", None)
+
+    keys = data_to_save[0].keys()
     with open(filename, 'w', newline='') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
-        dict_writer.writerows(data)
+        dict_writer.writerows(data_to_save)
 
 # Generate datasets
 train_data = generate_data(300)
 test_data = generate_data(100)
 
 # Save to CSV
-save_to_csv(train_data, "train.csv")
-save_to_csv(test_data, "test.csv")
+save_to_csv(train_data, "train.csv", include_target=True)
+save_to_csv(test_data, "test.csv", include_target=False)
+save_to_csv(test_data, "solution.csv", include_target=True)
 
-print("train.csv and test.csv generated successfully.")
+print("train.csv, test.csv, and solution.csv generated successfully.")
