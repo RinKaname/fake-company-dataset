@@ -36,7 +36,7 @@ class ExtractFeature(torch.nn.Module):
         self.index = index
     def forward(self, x):
         # the model expects a tensor with 5 columns
-        return x[:, self.index]
+        return x[:, self.index].unsqueeze(-1)
 
 IsProfitable = ltn.Predicate(ExtractFeature(0))
 HasHighDebt = ltn.Predicate(ExtractFeature(1))
